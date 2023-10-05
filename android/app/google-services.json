@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "588104088602",
+    "project_id": "green-wrld",
+    "storage_bucket": "green-wrld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588104088602:android:f258d3e522f98d2b8aa5a3",
+        "android_client_info": {
+          "package_name": "com.greenwrld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588104088602-lj7056q7rdm6uokvbb9so4v7cjim0k4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greenwrld",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "588104088602-t5gpk9hqge5qh42859j8ku3ftsf5j480.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greenwrld",
+            "certificate_hash": "569d07b41243d20cde5465a10c7516a83c9f8337"
+          }
+        },
+        {
+          "client_id": "588104088602-vbmqctf425i78kh800bjb7qrsjdiuub3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpInuTjD6mhkxHKyNa3av3ziBuCZINojU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588104088602-8oobpqek441aipefg82tgqr3t0mi45cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
